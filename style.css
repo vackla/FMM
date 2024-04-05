@@ -5,6 +5,7 @@ body {
     margin-right:0px;
     background-color:cream; 
     color: #333; 
+overflow-x: hidden;
 }
 header {
     background-color: #333;
